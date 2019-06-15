@@ -1,3 +1,5 @@
+{
+"movies":
 [{"id":1,"name":"Transistor Love Story (Monrak Transistor)","genre":"Comedy|Drama|Musical|Romance"},
 {"id":2,"name":"Azumi","genre":"Action|Adventure|Drama|Thriller"},
 {"id":3,"name":"Erotic Man, The","genre":"Drama"},
@@ -48,3 +50,5 @@
 {"id":48,"name":"Crucible, The","genre":"Drama"},
 {"id":49,"name":"Midnight's Children","genre":"Drama"},
 {"id":50,"name":"Merchant of Four Seasons, The (Händler der vier Jahreszeiten)","genre":"Drama"}]
+
+}
